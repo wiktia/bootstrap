@@ -1,0 +1,6 @@
+.custom-header {
+    text-align: center; /* Wyśrodkowanie tekstu */
+    font: bold 240px Verdana, sans-serif; /* Pogrubiona czcionka Arial, rozmiar 24px */
+    color: #2794385f; /* ciemno-zielony tekst */
+    background-color: #e8f4c0; /* Jasnoszare tło */
+}
